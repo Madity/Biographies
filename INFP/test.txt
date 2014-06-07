@@ -1,0 +1,25 @@
+25    Johnny_Depp_adj.txt           INFP                    27
+26    David_Lynch_adj.txt           INFP                    27
+27    Terrence_Malick_adj.txt       INFP                    27
+28    Chloe_Sevigny_adj.txt         INFP                    27
+29    William_Shakespeare_adj.txt   INFP                    26
+30    J.K._Rowling_adj.txt          INFP                    25
+31    Andrew_Garfield_adj.txt       INFP                    23
+32    Jarvis_Cocker_adj.txt         INFP                    22
+33    Tim_Burton_adj.txt            INFP                    21
+34    Hans_Christian_Andersen_adj.txtINFP                    20
+35    David_Simon_adj.txt           INFP                    20
+36    Jude_Law_adj.txt              INFP                    20
+37   John_Kerry_adj.txt            INFP                    19
+38    Thom_Yorke_adj.txt            INFP                    19
+39    Morrissey_adj.txt             INFP                    18
+40    Robert_Pattinson_adj.txt      INFP                    18
+41    Ian_Curtis_adj.txt            INFP                    17
+42    Bjork_adj.txt                 INFP                    16
+43   Antoine_de_Saint-Exupery_adj.txtINFP                    15
+44    John_Mayer_adj.txt            INFP                    15
+45    Florence_Welch_adj.txt        INFP                    14
+46    Louis_C.K._adj.txt            INFP                    13
+47    Fiona_Apple_adj.txt           INFP                    11
+48    Mia_Wasikowska_adj.txt        INFP                    9
+49    Mary-Kate_Olsen_adj.txt       INFP                    8

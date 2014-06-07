@@ -1,0 +1,8 @@
+animated
+kind
+critical
+social
+traditional
+creative
+shy
+natural

@@ -1,0 +1,522 @@
+=======================================================
+    [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}
+=======================================================
+Jack Dorsey (born November 19, 1976) is an American web developer and businessman widely known as a co-founder and co-creator of Twitter, Fleetic and as the founder and CEO of Square, a mobile payments company.[3] In 2008, he was named to the MIT Technology Review TR35 as one of the top 35 innovators in the world under the age of 35.[4] For 2012, The Wall Street Journal gave him the "Innovator of the Year Award" for technology.[5]
+Dorsey was born and raised in St. Louis, Missouri,[6][7] the son of Marcia (Smith) and Tim Dorsey.[8][9][10] He is of part Italian descent.[11] He was raised Catholic, and his uncle is a Catholic priest in Cincinnati.[12] He went to Catholic high school, at Bishop DuBourg High School.
+By age thirteen, Dorsey had become interested in dispatch routing. Some of the open source software he created in the area of dispatch logistics is still used by many taxi cab companies.[8] Dorsey attended the Missouri University of Science and Technology before subsequently transferring to New York University, where he first came up with the idea that became Twitter.[13] While working on dispatching as a programmer, he later moved to California.[14][15]
+In Oakland in 2000, Dorsey started his company to dispatch couriers, taxis, and emergency services from the Web.[16] His other projects and ideas at this time included networks of medical devices and a "frictionless service market".[16] In July 2000, building on dispatching[8] and inspired in part by LiveJournal and possibly by AOL Instant Messenger, he had the idea for a Web-based realtime status/short message communication service.[16]
+When he first saw implementations of instant messaging, Dorsey wondered whether the software's user status output could be shared among friends easily.[8] He approached Odeo, who at the time happened to be interested in text messaging.[8] Dorsey and Biz Stone decided that SMS text suited the status message idea, and built a prototype of Twitter in about two weeks.[8] The idea attracted many users at Odeo and investment from Evan Williams[8] who had left Google after selling it Pyra Labs and Blogger.
+Williams, Stone and Noah Glass co-founded Obvious, which then spun off Twitter Inc. with Dorsey as the CEO.[8][17] In his role during the pivotal days of the company's founding, a compilation chronicling the originally named "twttr" and the time leading up to the official launch, is shown in a timeline of tweets revealing Twitter's beginnings.[18] As chief executive officer, Dorsey saw the startup through two rounds of funding by the venture capitalists who backed the company.[19] On October 16, 2008,[20] Williams took over the role of CEO, while Dorsey became chairman of the board.[21][22] On March 28, 2011, Dorsey returned to Twitter as Executive Chairman after Dick Costolo replaced Williams as the CEO.[23]
+As the service began to grow in popularity, Dorsey chose the improvement of uptime as top priority,[24] even over creating revenue – which, as of 2008, Twitter was not designed to earn.[25] Dorsey described the commercial use of Twitter and its API as two things that could lead to paid features.[25] His three guiding principles, which are shared by the whole company and through its culture, are simplicity, constraint, and craftsmanship.[25]
+Dorsey developed a small business platform to accept debit and credit card payments on a mobile device called Square, released in May 2010. The small, square-shaped device attaches to iPhone, iPad, iPod Touch, or Android devices via the headphone jack, and as a mini card reader allows a person to swipe her or his card, choose an amount to give to the recipient and then sign his or her name for confirmation. Square is also a system for sending paperless receipts via text message or email, and is available as a free app for iOS and Android OS.[26][27] The company grew from 10 employees in December 2009[28] to over a hundred employees by June 2011. Square's office is located on Market Street in San Francisco.[29] In September 2012, Business Insider magazine valued Square Inc. at $3.2 billion.[30] Dorsey is CEO of Square, Inc.[31]
+Producer Tom Anderson and correspondent Lara Logan interviewed Dorsey for a segment of CBS 60 Minutes called "The Innovator: Jack Dorsey" which aired during March 2013.[32] In 2013, talking to CNN, Dorsey expressed admiration for Michael Bloomberg and his reinvention through design and simple interfaces of what it means to be mayor.[33] Dorsey thinks becoming mayor of New York City is an aspiration that would raise the bar for him.[33] Dorsey served as a judge for New York City Mayor Michael Bloomberg's NYC BigApps competition in 2011.[34]
+Dorsey was announced as a new member of the board of directors of The Walt Disney Company on December 24, 2013. The press release referred to Dorsey as a "talented entrepreneur" and explained that his experience is aligned with the corporation's "strategic priorities."[35]
+Jack Dorsey interviewed by Lara Logan (March 17, 2013). The Innovator: Jack Dorsey (13:14 running time). 60 Minutes: CBS Interactive. 
+Jack Dorsey interviewed by Lara Logan (March 17, 2013). Twitter creator: The importance of tweeting Mom (5:22 running time). 60 Minutes Overtime: CBS Interactive. 
+Jack Dorsey inteviewed by Kevin Rose. Episode 01 w/ Jack Dorsey (running time 27:08). Foundation + Idea Division. 
+Categories: 1976 birthsLiving peopleAmerican bloggersAmerican computer programmersAmerican Roman CatholicsPeople from St. Louis, MissouriMissouri University of Science and Technology alumniNew York University alumniTwitter peopleAmerican billionairesPeople from Fairmont City, IllinoisAmerican computer businesspeopleBusinesspeople from MissouriAmerican chief executivesHidden categories: Articles with hCardsCommons category with local link same as on WikidataWikipedia articles with VIAF identifiers 
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+=======================================================
+Latest NewsMarketsCommoditiesBusiness LeadersMost Popular NewsHot NewsFinance CalendarEconomic Calendar
+Oversold stocksOverbought stocksClose to resistancesClose to supportsAccumulation phaseMost volatile stocks
+Latest NewsCompaniesMarketsEconomy & ForexCommoditiesHot NewsMost Read NewsRecomm.Business LeadersVideosCalendar HomeAll newsMost read newsBusiness Leaders Biography 
+Birthday : 11/19/1976Place of birth : USACountry of residence : USALinked companies : Del Monte Foods - Square - Twitter - Wilbur-Ellis - Wells Fargo & Co
+Jack Dorsey is Twitters co founder. In 2010, Twitter had more than 105 million users who tweet about 55 million times a day. Until fourteen years old, Jack Dorsey, grew up in Saint Louis, Missouri. He had studied science and Technology at University of Missouri and then joined University of New York.  In 2000, he founded a service which allows to send messages from the Web in order to find quickly a taxi. The idea of communicating in a real time comes from AOL instant messenger.  He meets Odeos founders, Noah Glass and Evan Williams. Noah Glass markets AudioBlogger, an application allowing to publish audio files on a blog via telephone. Evan Williams is known as co-founder of Pyra Labs, which in origin was a platform of blogs, taken over by Google in 2003.  Together they create a Twitters prototype. The idea is allowing users to say what they are doing via SMS. Open to public on July 13 2006, the first version is called stat.us and then twitter.  Until October 16 2008, Jack Dorsey is a CEO. Then he became chairman of the board, and Evan Williams succeeded him.     With its ease of use, Twitter becomes rapidly very popular. In 2007, Twitter won South by Southwest Web awards for blogs.  In May 2009, Dorsey announced his new project, Square, originally the name was Squirrel. This is a start-up which allows people to receive payments by credit card through a small device installed on their mobile phone. 
+2013 - (Reuters) - Walt Disney Co (>> The Walt Disney Company) has slashed Chief Executive Bob Iger's fiscal 2013 compensation by 15 percent with a bonus cut, and named Twitter Inc (>> Twitter Inc) co-founder Jack Dorsey an independent board director....
+2013 - NEW YORK  — Disney is adding Twitter Chairman and Square CEO Jack Dorsey to its board of directors.
+If you think Twitter is an advert for starting your own hi-tech company, just look at where the founders have ended up
+Every time a Silicon Valley name goes to Wall Street and raises billions, you hear a creation myth. You heard it again last Thursday, as Twitter floated on the stock exchange.
+7 days ago - NEW YORK (Reuters) - The U.S. Federal Bureau of Investigation and the Securities and Exchange Commission are investigating...
+Can Apple do it again - and again?: Becoming the world's biggest company was a milestone for the iPhone maker. Now the pressure is on to stay top
+When Apple's chief executive Tim Cook takes the stage at the Moscone Centre in San Francisco on Monday, he will face one ...
+05/29 - LOS ANGELES (Reuters) - Former Microsoft Corp Chief Executive Officer Steve Ballmer won the bidding war for the NBA's Los ...
+     Donald Sterling, the disgraced owner of the Los Angeles Clippers, sued the National Basketball As...
+4-traders.com :EquitiesIndexesCommoditiesCurrenciesNewsAnalysisTop & FlopMarket ScreenerToolsWatchlistsPortfoliosAbout :Surperformance SASContact usAdvertiseLegal informationsAbout usStay Connected :FacebookTwitterPartners :Börse: Aktien, Kurse und NachrichtenBest tweets 
+=======================================================
+Jack Dorsey is an American entrepreneur and businessman famed for development of Twitter and the creator and chief executive officer of Square. In 2012, he bagged the ‘Innovator of the Year Award’ by the Wall Street Journal.
+Dorsey was born on 19th November 1976 in Fairmont City, Illinois. He attended the Catholic High School at Bishop DuBourg High School and  enrolled in the Missouri University of Science and Technology but later transferred to New York University where he first got the idea of Twitter. At the young age of 15, he wrote dispatch software which is still used by many cab companies. ‘The King of Tweets’ as he is popularly known initiated a company that dispatched taxis, couriers and emergency services from the internet in 2000. His other ideas included the ‘frictionless service market’ and networks of medical devices. In July of 2000, Dorsey came up with the idea of a web-based realtime status or short message communication service. He was inspired by LiveJournal and maybe AOL messenger. He teamed up with Christopher Isaac “Biz” stone and in two weeks’ time came up with a Twitter prototype. Originally named ‘twttr’, Twitter Inc. was set up in 2006 and is now one of the most widely used social networking website all over the world. Jack Dorsey was the first person to post a tweet on Twitter which said ‘just setting up my twttr’. Dorsey was selected the chief executive officer of the company.
+Twitter was at first derided as a time wasting tool and platform for self-centered people who cared to broadcast every minute of their lives. It was even mocked by the comedy host of a late night show Conan O’Brien in his segment ‘Twitter Tracker’. But soon Twitter became widely popular amongst celebrities and business personalities and soon it became a powerful platform for Presidents and political people like Barack Obama and John McCain on which they could keep their supporters up to date. The website reached new heights of success during the Iranian presidential elections in 2009. When the government blocked cell phone messages and foreign news coverage, thousands of Iranian protestors posted tweets on live status updates. By 2010 Twitter had more than 105 million users who posted almost 55 million times a day. Apart from Twitter,  Jack Dorsey also invested in another social networking company called Foursquare. He established Square in May 2010 which is a business platform where debit and credit card payments can be accepted and paperless receipts can be sent through e mail and text messaging. According to an estimate by the Business Insider magazine the company was worth $3.2 billion in September 2012.
+Jack Dorsey has proved his supremacy in entrepreneurship through his wisely chosen business ventures. He uses his three traits of simplicity, craftsmanship and constraint to run his businesses. His love of dispatch routing made him one of the richest people of the world. As of March 2013, his net worth is $1.1 billion. Even though Twitter has already brought a huge change in the way people communicate, for Dorsey this is not the end.
+Famous Entrepreneur: Ananda Krishnan http://t.co/roO2TIunur December 23, 2013 6:52 amFamous Entrepreneur: Charles Koch http://t.co/UOsSHhxTZs December 23, 2013 6:44 amFamous Entrepreneur: Guy Laliberté http://t.co/AqqhnCWo7G December 23, 2013 6:36 amFamous Entrepreneur: Jorge Paulo Lemann http://t.co/b5ZutbB4xk December 23, 2013 6:15 amFamous Entrepreneur: Leonardo Del Vecchio http://t.co/HiddQuE5QI December 23, 2013 6:07 am
+=======================================================
+On March 21, 2006, he sent the first ever Tweet when he wrote Just setting up my twttr. He was the co-founder of Twitter. 
+He went on to start Square after he left Twitter, which offered a mobile payments solution that allowed vendors to charge consumers with their iPhone. 
+He and his fellow Twitter executives turned down an offer from Mark Zuckerberg to purchase Twitter early on. 
+=======================================================
+'I look at that beach and I can tell you where each one was lying...   I can still see their faces': Tears of D-Day veterans as they make emotional return to Normandy to honour their fallen comrades
+A royal salute for the fallen heroes of D-Day: Prince Charles and an elegant Duchess of Cornwall join the Queen to pay their respects
+        70 years after they stormed Normandy's beaches as young soldiers amid the hell of battle, veterans willing to die for freedom in 1944 have made an emotional return to France. Harold Baumgarten, 89, has described how he could still look out at the beaches of northern France and point to where the bodies lay. Other men like Peter Smooth, 89, left, went to the British War Cemetery in Bayeux to salute fallen comrades. Other told their stories to dignitaries like Prime Minister David Cameron, top right. Across the Channel Douglas Turtle, 91, bottom right, sobbed on the seafront in Portsmouth as he remembered June 6 1944 at dawn.
+Still sulking, Mr Putin? Just weeks after Charles accused him of acting like Hitler, the Russian president stands by as Obama plays the gentleman for the Queen
+       World leaders gathered in Normandy to mark the 70th anniversary of D-Day amid growing tensions over Russian aggression towards Ukraine. Mr Putin is due to come face-to-face with the Prince of Wales later. As heads of state gathered for a group photo to mark  D-Day at Benouville Castle, Mr Putin cut a solitary figure while Barack Obama and New Zealand's Governor-General Jerry Mateparae fussed around the Queen.
+      Surrounded by thousands of war graves Her Majesty bowed as she laid a wreath during a poignant service of remembrance in Bayeux, the first town in Normandy to be freed from Hitler's grip on June 6 1944.
+                  Australian war vets return to Normandy to commemorate the 70th anniversary of the D-Day...
+                  When the warship HMS Belfast fired the shot that launched the D-Day landings, it was...
+                  World War Two veteran Jim Martin parachutes into the fields of Normandy on the eve of the...
+                  The Queen paid her respects to the 4,500 men who died fighting the Nazis on D-Day, as she...
+                  United States President Barack Obama and French President Francois Hollande gather on the...
+                  The Queen laid a wreath during a ceremony at the Commonwealth War Graves Cemetery in...
+                  France's Hollande hosts world leaders for a commemorative D-Day group photo and lunch,...
+                  Prime Minister David Cameron and his wife Samantha attended a British D-Day commemoration...
+                  Imperial War Museum archive footage of British troops landing on the Normandy beaches
+                  Normandy veterans are returning to the shores of France to pay their respects to lost...
+                  As the sun rose over a gusty Omaha Beach in France on D-Day veterans from the United...
+                  On June 6, 1944, the world's largest seaborne invasion was launched against the occupying...
+                  Queen Elizabeth II lays a wreath at the tomb on the unknown soldier at the Arc de...
+                  As the sun rose on the 70th anniversary of the D-Day landings, people gathered on...
+                  Britain's Prince Charles, accompanied by his wife the Duchess of Cornwall, meets glider...
+                  Australian war vets return to Normandy to commemorate the 70th anniversary of the D-Day...
+                  When the warship HMS Belfast fired the shot that launched the D-Day landings, it was...
+Flood warnings issued as Britain faces a weekend soaking with a fortnight's rain forecast to fall in just an hour (so enjoy today's sunshine while you can)
+      The Met Office said thundery rain is expected to start falling across Britain early tomorrow morning, with showers unlikely to ease off until the evening. Some places could see between 20mm and 30mm of rain fall in an hour - almost half of the UK monthly average for the whole of June. It comes as people across the country enjoy temperatures of up to 25C today. Families and teenagers celebrating the end of their exams took to South Shields beach today (right) to soak up the sunshine, while horses enjoyed grazing in buttercup fields in the warm weather in Biggin Hill, Kent (left).
+Eight suspects including three drug dealers to be quizzed by British police in hunt for Madeleine McCann as officers are granted permission to question them
+      Portuguese officials are reported to have finally given the go-ahead for British officers to quiz eight local men who they believe could be crucial to solving the mystery
+Mother left in tears after two customers called her a 'slut' for breastfeeding her son in Costa coffee
+      Rhea Holley, of Faversham in Kent, was at Costa Coffee in Purley, south London, when two customers in their 60s started verbally abusing her for breast-feeding.
+Mother in tears after being called a 'slut' by two customers for breastfeeding her son in Costa coffee
+Parents held after son, 11, reaches 15 STONE: Couple arrested on suspicion of child cruelty after 'doctors became concerned about boy's wellbeing
+      The parents, from King’s Lynn, Norfolk, claim their son's weight gain is genetic and they have tried to keep his size under control.
+      Studies show the optimum amount is 3-4mg of caffeine per kilogram of bodyweight one hour prior to exercise.
+Destitute slum mother, 25, sells newborn boy to childless couple for £130 after husband abandoned her while pregnant
+      Gauri Shah, 32, who lives in a slum near railway tracks in in Jalpaiguri, West Bengal was abandoned by her husband eight months ago expecting her fourth child.
+'The job isn't finished... let's stick at it': Cameron admits Tories must do more to defeat UKIP despite triumph over Farage in Newark by-election
+      The Prime Minister warned the Conservatives had to keep hammering home key messages on the economy, tax cuts and jobs, after Robert Jenrick beat UKIP's Roger Helmer by 7,000 votes.
+Farage, hand in hand with a blonde travel rep at 3.42am in Malta: But married Ukip leader dismisses claims of a tryst
+Mexican Kim Kardashian lookalike 'takes over as boss of drug cartel hit squad' and uses a personalised pink AK47
+       Claudia Ochoa Felix, 27, is thought to be the new head of an elite kill squad used by one of Mexico's most powerful drug cartel, the Sinaloas, to carry out executions. She regularly posts pictures on social media posing like her idol Kim Kardashian while holding her signature pink AK (right). She has also uploaded images of her bodyguards (inset) and her three children surrounded by piles of cash.
+Forget the helmets - you'll only need a flat cap: Hilarious video warns Tour de France riders what to expect in Yorkshire (and says avoid bright clothing... it scares the sheep)
+      Ditch helmets for flat caps and switch bright jackets for grey cardigans so you don't scare the sheep - a Yorkshire man's advice ahead of the Tour de France.
+Why a hungry man loves a curvy woman: They have evolved to prefer people who seem to have better access to food
+      Researchers from London's University of Westminster asked 124 men - half of whom were hungry and half well-fed - to rate different women by attractiveness.
+Why a hungry man loves a curvy woman: They have evolved to prefer people who seem to have better access to food
+'Fraudsters hijacked our phone line and then stole tens of thousands when we called the bank': Customers scammed and then left stranded by their banks
+      In two separate cases that we investigated customers with Lloyds Bank and Nationwide Building Society lost a total of almost £60,000 to the scam.
+Most rapists don't lurk down dark alleys wearing balaclavas, say prosecutors in move to boost conviction rates
+      The country’s top prosecutor warned that ‘out-of-date myths’ had to be tackled to persuade victims to have confidence in the criminal justice system.
+Dying for a tan: Man, 32, diagnosed with terminal skin cancer after spending £7,000 on sunbed sessions over eight years
+       Damien Platt, from Greater Manchester, was diagnosed with melanoma after using a sunbed up to four times a week for nine minutes at a time 'to make hi self feel good'. He said: 'To find out I had melanoma was the worst feeling in the world. I felt completely numb and found it very hard to function properly for days, people would try talking to me but nothing would register. Now I'm just trying to be as happy as possible with the time I've got left.' Image ( bottom right) shows the scar on his leg where the mole was removed and (top right) shows him with a tan.
+Fears government agencies can listen in to private mobile phone calls at the ‘flick of a switch’ after Vodafone reveals authorities use secret wires across its entire network which stretches to 29 countries
+      Vodafone said direct-access wires were connected to its network, allowing authorities in 29 countries - including Italy, Malta and Spain - to monitor conversations.
+‘Rape? Sometimes it's RIGHT': Indian state minister says offence is only a crime if the woman reports it to police - days after murderous gang-rape of two sisters
+      'This is a social crime which depends on men and women. Sometimes it's right, sometimes it's wrong,' said Babulal Gaur, minister for Madhya Pradesh.
+'I'm done': 'Rambo' killer finally SURRENDERS in woman's front yard after going on shooting rampage that left three Canadian Mounties dead and put city on day-long lock-down
+      Justin Bourque, 24, was taken into custody early Friday morning after a deadly shootout in Moncton, New Brunswick, that left three police officers dead.
+Suffocated baby's twin returned to parents after judge clears father of accidentally killing her as they slept on sofa, saying the couple 'deserve to be believed'
+      The middle class father came under suspicion from Lancashire County Council following the death of his daughter, but judge Mr Justice Peter Jackson (pictured) cleared him of blame.
+And they're off! Fillies in fascinators and fancy frocks descend on a sunny Epsom Downs for Ladies Day at the Derby
+       Colourfully dressed racegoers basked in the sunshine as they arrived at the Epsom Downs racecourse in Surrey for the first day of the Derby Festival. Highlights on Ladies Day include the Oaks and the Princess Elizabeth Stakes but the big hitters, including the hot favourite Australia, will arrive tomorrow ahead of the Derby.
+Use leftover Melba toast... and other money-saving tips by aristocratic politician who lives in a 13-bed manor
+      Tory peer Baroness Rawlings, who is married to a multi-millionaire, suggested people reuse their linen and use a bath to warm the room.
+Hairdresser loses her 'chav' accent after suffering a severe migraine... and now only speaks in foreign accents
+      Julie Matthias, 49, of Chatham, Kent, has been diagnosed with Foreign Accent Syndrome - which affects just 60 people worldwide.
+Hairdresser loses her 'chav' accent after suffering a severe migraine... and now only speaks in foreign accents
+      As 94-year old grandmother Bertha Guymer, pictured, lay dying on a hospital bed in Essex, a thief stole her wedding rings, her family has claimed.
+'Can't catch me': Fugitive, 20, who taunted police on Facebook weeps in the dock as he is jailed for stealing thousands from his grandparents and assaulting his mother
+      Joe Barlow, from Laindon, Essex, was jailed for five separate offences at Basildon Crown Court, including stealing £8,500 from his grandparents’ savings to pay for drugs.
+'I wasn't even hungry': Russian cannibal is FREED from court despite admitting he ate his fisherman friend - as victim's distraught wife says all she is left with is his foot
+       Her husband, Andrei Kurochkin was eaten by his close friends who were fishermen after they were lost for months during an expedition in frozen Siberia. Olga Korochkin, 38, spoke out after hearing confirmation that cannibalised human remains found were those of her husband.
+'Everything is proceeding according to plan. And what a plan!' How Churchill told MPs of the most ambitious operation ever launched as the D-Day landings were still underway
+      MPs applauded after the wartime Prime Minister described the start of the 'most complicated and difficult' operation ever launched.
+Putin shakes hands with Ukraine's new president for tense 15 minutes (with German Chancellor Angela Merkel acting as referee)
+      With Merkel in close attendance the two men spoke after a photocall of leaders attending the Normandy commemoration.
+'I was a product of rape': Miss USA 2014 hopeful reveals she was conceived when her mother was attacked at knifepoint
+      Valerie Gatto's mother was attacked when she was 19. Rather than let the tragic story define her, Valerie uses it to help educate young women about sexual assault.
+Bosses should let workers take naps, says sleep expert: Professor says 30 to 90 minutes 'brain downtime' per day could increase productivity
+      Vincent Walsh, professor of human brain research at University College London, also proposed they should be allowed to set their own work times, arriving whenever they want.
+Bosses should let workers take naps, says sleep expert: Professor says 30 to 90 minutes 'brain downtime' per day could increase productivity
+       The 'barbaric' act of cruelty in Pendle, Lancashire was filmed by one of the men, while the other two tried to clamber up towards the terrified animal. Joshua Varey, 24, filmed the act while Shaun Mullens, 22, and Paul Ashworth, 49, shook branches trying to dislodge the animal. All three defendants, from Colne, have pleaded guilty to what Burnley magistrates described as 'deliberate and serious' acts of cruelty that the defendants 'appear to derive pleasure from'.
+One Direction's Louis Tomlinson to become co-chairman of Doncaster Rovers Football Club after 'finalising multi-million pound takeover deal'
+      The One Direction singer is believed to have finalised a deal to takeover the football club, who he has supported his whole life.
+Why Tetris is so addictive: Playing the game is like 'scratching an itch' and appeals to our brain's desire to tidy up
+      A psychologist from the University of Sheffield has revealed that Tetris appeals to our brain's desire to solve mini tasks, while being tantalised by more problems.
+Thousands of children in Irish care homes at centre of 'baby graves scandal' were used in secret vaccine trials in the 1930s
+      Scientists secretly gave 2,051 babies and children in homes thought to include Sean Ross Abbey, Co. Tipperary, pictured, a diphtheria vaccine without their consent.
+Thousands of children in Irish care homes at centre of 'baby graves scandal' were used in secret vaccine trials in the 1930s
+Advertising executive 'was sacked from her £160,000-a-year job when she returned from maternity leave because firm's sexist Mad Men culture'
+      Mrs A, a single mother in her late 30s, was originally employed by Ogilvy before the company was taken over by Hogarth World Wide Ltd, in central London.
+Four generations of depravity: Court orders 'incest family' who lived in remote Australian bush to provide DNA samples to help police unravel decades of sexual abuse
+       Two members of a NSW family accused of mass incest have been DNA swabbed following a court order. 'Raylene Colt' and 'Betty Colt' (the legal pseudonyms given to them) were ordered to report to a Sydney police station on Friday to provide samples. The family was discovered in regional NSW in 2012 living in squalid conditions and have been the subject of a child abuse investigation since.
+      Researchers at the University of Rochester, in the U.S., say male brains are affected more significantly than female brains.
+Give me my pocket money or I'll jump: Chinese boy, 10, holds parents to ransom over late payment of his 50p
+      When ten-year-old Xiao Wei's father was late in paying him his weekly 50p stipend in Shangsi, China, the stubborn youngster took matters into his own hands.
+Father jailed for stabbing his partner six times during vicious attack in front of their children after she called police to report him
+      Nicholas Robinson, pictured, broke down in tears at Leeds Crown Court after he received the 11-year sentence for the attempted murder of Claire Chambers.
+Jurassic Park actor arrested and charged with kidnap and rape of 13-year-old girl he met for acting classes
+      Cameron Thor, 54, is accused of sexually assaulting the girl over the course of a year by police in Los Angeles, California, who say he took her to a secluded area.
+'To go from hating the way I look to a centerfold is a profound honor': Man V. Food host Adam Richman poses NAKED following 70lb weightloss
+       Former Man V. Food host Adam Richman is celebrating is 70lb weight loss with a naked spread in Cosmopolitan UK's July issue. Mr Richman, 40, poses lying down with a soccer ball precariously covering his genitals. He wears soccer cleats and knee socks and is surrounded by a smattering of soccer balls that read 'USA', in reference to this summer's World Cup.
+School at centre of Islamist 'Trojan Horse' takeover plot rejects Ofsted report saying it is failing to protect pupils from extremism
+      The report - made public yesterday but leaked to the Mail on Monday - said Golden Hillock school in Birmingham (pictured), was doing too little to keep students safe from extremist views.
+Is this the street in which Jack the Ripper lived? Geographic profiling pinpoints exact address of Victorian serial killer
+      A former Canadian police officer combined geographical profiling and computer models to pinpoint Ripper's address in Whitechapel, East London (pictured in 1902).
+Still clutching their rosaries after hundreds of years, eerie photographs show mummies buried in a Czech underground crypt
+       A monastery in the Czech Republic has a ghoulish secret for those willing to venture underground - two dozen corpses clutching rosaries are on display. The bodies in the Capuchin Crypt of the Holy Cross Church, in Brno, date back hundreds of years, but they were only recently rediscovered and opened to public viewing.
+Google reveals 3D scanning sensors for tablets that will map your home and give you directions INSIDE a building
+      California-based Google has revealed the next step in their 'Project Tango'. The ambitious 3D mapping technology is being brought to tablets (pictured).
+Build more homes in the countryside to stop property boom, says Lagarde (as IMF abandons warnings on Osborne's austerity)
+      IMF chief Christine Lagarde, said the Bank of England should start to put up interest rates and take measures to clamp down on risky mortgages.
+      People who match with each other on the app can now send pictures visible for 24 hours to each other.
+      The mums in Krasnoyarsk Krai, a city in central Russia, were among thousands who offered up their children in the races which have taken place across the country.
+It's one in a mill-ion! Stunning riverside home with its own working water mill and vintage car museum could be yours (for £700,000)
+       The secluded estate is set in 67 acres of woodland near South Molton, between the picturesque Dartmoor and Exmoor national parks in Devon, and features a water mill with exposed mechanics and a huge millstone. The magnificent building also features a spectacular 13,000 sq ft vintage car museum, riverside terrace and floodlit weir.
+'Chaos and mass delays' as power failure grounds flights at Bristol Airport and passengers are told to wait outside terminal
+      Passengers have taken to Twitter to voice their frustration as flights are delayed and the terminal fills with grounded passengers.
+Air passengers delayed and 'forced to fly without luggage' from Heathrow due to Europe-wide computer problem
+      The luggage system that manages baggage across Europe has experienced an IT failure which is affecting flight out of the UK.
+Does the amount of make-up you wear affect how people treat you? Student tries three different looks to find out
+       Brinton Parker, a 21-year-old student at the University of California, was inspired to conduct her experiment after noticing how her peers critiqued people's looks. So during a single week, she went to school wearing three very different make-up looks - bare-faced, moderate and heavy - in a bid to measure the ways it altered how people treated her.
+          Katherine Jenkins ditches her usual glamorous make-up for a more natural look as she showcases her slim frame in navy mini dress
+          Pregnant Claire Sweeney displays growing bump in two tone mini dress as she treats herself to restaurant meal
+          A look that will take you places! Michelle Keegan wears bright playsuit at photocall for holiday company
+          Lucy and Lydia Mecklenburgh show off the results of their first training session together (but can't take a selfie without covering their faces)
+          Keeping Upside Down With The Kardashians! Kris Jenner, 58, shows Kim how it's done at pole dancing class
+          Handle with care! Nigella Lawson steps out looking pale and fragile... the morning after her dazed appearance at charity fundraiser
+          One Direction's Louis Tomlinson to become co-chairman of Doncaster Rovers Football Club after 'finalising multi-million pound takeover deal'
+          Jake Gyllenhaal and Rachel McAdams spotted sharing intimate meal in Pittsburgh as they prepare to start shooting new film Southpaw
+          EXCLUSIVE: Abbey ever after! Robin Windsor and Marcus Collins reveal plans for Downton-themed wedding... eight months after Clancy set them up
+          'That was like extreme incarceration!': Big Brother's Matthew Davies is let out of his glass box after 12 hours suspended above the garden
+          BGT 2014's final will be a huge TV event... and a mindless, cynical circus: JIM SHELLEY's 12 reasons for hating Britain's Got Talent
+          Rihanna cuts a forlorn figure as she parties in Hollywood wearing satin kimono jacket...  after jetting in from Paris earlier that day
+          'Some people hate it but I love getting up and going to the gym': Cheryl Cole reveals secrets behind music comeback physique
+          Barefaced Snooki bares her pregnant belly in skimpy bikini as she poses in series of selfies
+          Cara Delevingne shows off her supermodel style in plunging printed silk jumpsuit as she attends Stella McCartney party with pal Jourdan Dunn
+          It's over: Jennifer Lopez and dancer boyfriend Casper Smart 'call it quits'... amid transsexual sexting scandal
+          She's still got it! Elle Macpherson, 50, is on trend in skinny jeans and casual sweater as she makes her way to Manchester photo-shoot
+          Samantha Cameron walks hand-in-hand with veteran's family member at service to mark the 70th anniversary of the D-Day landings
+          'Get witch or die tryin': Rapper 50 Cent sends up Angelina Jolie's evil queen character in hilarious spoof trailer MaleFiftyCent
+          Earning her fashion stripes: Pregnant Holly Willoughby wears comfortable T-shirt and jeans as she leaves Soho restaurant
+          Now where did I put those Daisy Dukes? Jessica Simpson parades her slimmer figure in semi-sheer dress as she prepares for summer wedding
+          'I had to leave my ego at the door with this' Behind the scenes with Kelly and Sharon Osbourne as they unveil new MAC range
+          Only the best for his wife-to-be! George Clooney 'on the hunt for French love nest' with fiancee Amal Alamuddin... as he 'plans move into politics'
+          Happy National Day, Sweden! As the Swedish Royal family embrace festivities, even three-month-old Princess Leonore is dressed to tradition
+          Lara Stone shows off her cleavage and slim pins as she is joined by husband David Walliams at Terrence Higgins Trust event
+          Amber Rose flashes her toned midriff in crop top as she leaves husband and son at home for dinner out
+          Simply bellissimo! Chloe Green opts for effortless Italian glamour in pale pink tie- up shirt and leather skirt as she kicks off charity road trip in Venice
+          Fit for Hollywood royalty! Sandra Bullock looks regal in side-split blue gown as she speaks at Jane Fonda Tribute
+          Adam Levine 'transforming Beverly Hills bachelor pad into a lavish family home' as he prepares to marry model Behati Prinsloo
+          And they're off! Fillies in fascinators and fancy frocks descend on a sunny Epsom Downs for Ladies Day at the Derby
+          Girl power! Robin Wright, Jodie Foster and Taylor Schilling celebrate their huge success at Netflix Women Ruling TV event
+          That looks familiar! Cindy Crawford's lookalike 14-year-old son Presley shows off the iconic mole he inherited from her
+          Prison food went down well then! Chris Brown displays fuller physique as he arrives at his get out of jail free party thrown by girlfriend Karrueche Tran
+          Sienna Miller and fiancé Tom Sturridge lead the way during ANOTHER celebrity-packed night at Chiltern Firehouse
+          Lo(han) and behold... she's out again! Flame-haired Lindsay rocks a grungy leather jacket and skirt combo as she enjoys another night at Chiltern Firehouse
+          Moss be having fun! Kate looks worse for wear in clashing prints as she hits Prince gig and Chiltern Firehouse with Nick Grimshaw
+          Don't mind us! Michael Sheen and Sarah Silverman make a discreet exit after late night out at celebrity haunt Chiltern Firehouse
+          Plus size label Simply Be showcases fashion-forward festival collection on leading bloggers who wear sizes 12-22
+          Millie Mackintosh highlights her slender frame in snakeskin jumpsuit at Smirnoff Mix It campaign launch
+          Another celebrity convert: Amber Le Bon models the world's first in-flight onesie (but don't expect to look as good as her at 30,000ft)
+          It's perpetual bliss! Tim McGraw and Faith Evans put rocky marriage rumours to rest with a movie worthy on stage kiss
+          'Fake boobs, sex and spirituality need to be addressed in opera!' The rugby WAG and Gary Barlow protégée who wants to shake up the classical music world
+          Lovely in lace! Kate Beckinsale steals the show in strapless white dress at Macbeth opening night bash
+          She must've Heard it was a fashion event! Amber steals the limelight as she displays her pins in fetching red minidress at Stella McCartney presentation
+          Jesse Metcalfe takes girlfriend Cara Santana shopping in first sighting since Courtney Robertson labelled him 'pretty average' in bed
+          Former prostitute Helen Wood who had threesome with Wayne Rooney enters the Big Brother house... and claims she has been celibate for a year
+          Girls star Gaby Hoffmann pregnant with her first baby and showing a bump at screening for her new film Obvious Child
+          Now that's Fancy! Shipshape Iggy Azalea slips into green bikini for luxury yacht holiday to celebrate 24th birthday
+          'She isn't waiting for a man': Dancing With The Stars pro Karina Smirnoff, 36, has frozen her eggs and 'may have a child on her own'
+          Team green! Brooke Vincent's 22nd birthday celebrations continue as she hits Manchester in sexy jumpsuit flanked by pals
+          Fancy meeting you here! Kim Kardashian and Hilary Duff bring their children to same parenting class in Beverly Hills
+          'He's struggling!' Kris Jenner opens up about Rob Kardashian's issues, but does not deny daughter Kourtney is pregnant with third child
+          Maggie Gyllenhaal wows in colourful boho chic as she holds her own at Stella McCartney's Spring 2015 presentation
+          Crazy Stupid Stomach! Cheryl Cole reveals her washboard abs in low- cut crop top in stills from video for new single
+          Meet first 10 Big Brother 2014 contestants: A former prostitute, a strict catholic and a one-hit wonder amongst those first in house
+          Here come the girls! Daisy Lowe sports cropped blouse and flared dress trousers for night out at Scott's with fellow fashionista Alexa Chung
+          Nigella Lawson lets her hair down at charity dinner... as her production company makes £2.5 million profit in a year
+          Emma Roberts cuts a striking figure in a fetching red dress as she receives Maui Film Festival Shining Star Award alongside fiance Evan Peters
+          When in Ibiza! TOWIE's Mario Falcone puts his washboard abs on display as he greets topless fans during stag do holiday
+          They love the nightlife! Aussie star Guy Pearce plays tour guide as he takes actor  Robert Pattinson and his blonde lady friend on a trip to Sydney's top hotspots
+          Doesn't she get a day off? Alesha Dixon shows off her super flat stomach as she dresses up again for UK premiere of Belle
+          Kourtney Kardashian covers up 'baby bump' in baggy black sweater as she and Scott Disick grab lunch in The Hamptons
+          That's better! Bradley Cooper trades questionably tight shorts for baggy cargo pants as he takes a break from the set of American Sniper
+          TOWIE's Gemma Collins wears white skinny jeans with confidence after losing nearly two stone ahead of Marbella special
+          'He's lost... but he's no racist': Rapper 50 Cent defends Justin Bieber following N-word storm... as singer 'takes responsibility for his actions'
+          Still selfie obsessed! Kendall and Kylie Jenner pucker up for picture... despite being mobbed by fans at book signing
+          'She has the perfect body!' Kris Jenner says daughter Kendall's topless modelling shots 'comes with the territory'
+          Jumping into action! Emma Willis wins the viewers votes as she kicks off Big Brother 2014 in flattering white all-in-one
+          Big Brother 2014 Launch: Pauline Bennet goes on a 'power trip' as a playboy bunny and devout Catholic are amongst first stars to enter the house
+          Big Brother reveals first twist of the series as Pauline Bennet is told to pick who wins £5,000 and which housemate is excluded on first night
+          He's scored! Phil Neville can't resist kissing bikini-clad wife Julie as family holiday in Barbados continues
+          You gotta fight for your copyright! Beastie Boys awarded $1.7million after suing drink firm which used their music in commercials
+          George RR Martin makes fundraising appeal to Game Of Thrones fans to name a character he will kill in upcoming novel
+          Time to update the wardrobe! Chantelle Houghton wears her favourite white blazer as she goes shopping with Dolly
+          Together again! Eva Longoria reunites with Desperate Housewives co-star Felicity Huffman at Jane Fonda Tribute
+          Orange is the new black: Ashley Tisdale shows off her tanned and toned legs in tiny bright shorts as she enjoys shopping trip
+          The love story that helped Hawking reach for the stars: Eddie Redmayne to star in provocative film about physicist's 25-year marriage to first wife
+          Rolling Stones stars Mick Jagger, Ronnie Wood and Charlie Watts visit Jerusalem's Western Wall before first ever Israel concert
+          Look, I can do streetwise too! J-Lo is just Jenny From The Block as she steps out in denim after being branded a 'sell out' at Bronx homecoming 
+          Diary of BGT's ditziest finalist: Lettice on auditioning hungover, her outrageous stage costumes and being loaned a £1.5million violin to perform
+          The Queen lights up the Champs-Élysées: Her Majesty - in her FOURTH chic outfit of the day - has red carpet rolled out for her in Paris ahead of D-Day
+          Pastel perfection: Lindsay Lohan reveals very slim pins in pale blue skinny jeans and jumper as she steps out to lunch
+          Catherine Zeta-Jones and Morgan Freeman share a friendly kiss gone wrong... as she and Michael Douglas arrive at Hollywood event together
+          Pins on parade! Jessica Seinfeld and Liv Tyler wear revealing short summer dresses at Stella McCartney presentation
+          'She's celestial... I was born into her': Keith Urban on his divine connection with Nicole Kidman... and how her drug intervention saved him
+          She's still got it! Jane Fonda, 76, wows as she accepts lifetime achievement award... days after giving sex tips on Conan O'Brien
+          Return Of The Jedi! Mark Hamill, 62, shows he can still handle a Lightsaber during visit to Disney World 37 years after first playing Luke Skywalker
+          'You don't always have to be naked!' TLC slam Rihanna for using sex to sell records saying it's the easy way to get to the top in the music industry
+          Justin Bieber has been 'non-stop crying' after two videos surface showing him singing vile racial slurs at the age of 14
+          Escorted by her Goodfella! Robert De Niro's wife Grace Hightower shines in blue dress at documentary premiere in New York
+          A cause close to her heart: Demi Lovato speaks about her own personal struggles during mental health event
+          Pregnant Jessica-Jane Clement shows off her growing baby bump as she takes her dogs for a leisurely walk
+          'People don't want them here': Khloe and Kourtney Kardashian continue to annoy Hamptons locals with 'outrageous filming demands'
+          Lupita Nyong'o to star in and produce big screen adaptation of award-winning novel Americanah
+          I'll be back... after my cigar break: Arnold Schwarzenegger takes things slowly as he has a sly puff on set of Terminator: Genesis
+          Jaime King parades her pins in sporty cardigan and matching mini-skirt at the McDonald's World Cup party in NYC
+Moment benefits cheat who claimed she had been left wheelchair-bound by arthritis was filmed water-skiing in Florida - ending a 20-year scam in which she stole £144,000
+       Janet Curtis, 64, top right, from Clacton, Essex, said her rheumatoid arthritis meant she could barely walk more than a few yards, and left her needing 24-hour live-in care. But fraud investigators found video footage showing her water-skiing on holiday in Florida, left, walking round theme parks and swimming. Curtis, pictured outside Ipswich Crown Court yesterday, bottom right, admitted nine benefits fraud charges and was ordered to repay the money, and given a curfew and 18-month suspended prison sentence.
+Moment benefits cheat who claimed she'd been left wheelchair-bound by arthritis was filmed water-skiing in Florida ending 20 year scam in which she stole £144,000
+Germans complain British tourists are too loud and all too often drunk (but at least we're not as bad as the Russians)
+      British tourists are second only to Russians when it comes to nationalities Germans dislike most when on holiday.
+Sales of widescreen TVs boom ahead of World Cup as Tesco gears up for the big event by getting extra nuts in
+      Tesco said TV sales have almost doubled ahead of the event, while John Lewis reported a 47 per cent jump in sales in its vision department.
+      Labour MP Stella Creasy says women will have to ‘breed for Britain’ if immigration is restricted - and she has a point, writes RICHARD LITTLEJOHN.
+Father who has been hiccupping for three years is devastated to be told he could have condition for LIFE
+      Daniel Clavin (pictured with his wife, Susan), 38, from County Roscommon, has been diagnosed with multiple sclerosis and believes the condition is responsible for his hiccups.
+Father who has been hiccupping for three years is devastated to be told he could have condition for LIFE
+Fancy hosting the next Olympics? Ultimate sporting mansion comes with golf course, climbing wall, tennis and badminton courts, pool, shooting range and even a lake (but it'll cost you £7million)
+       The country estate near Exeter, Devon is set in 30 acres that include a golf course, tennis courts, beach volleyball court, archery and hockey facilities and a lake. And with a badminton court, squash court, climbing walls, 10-metre swimming pool, gymnasium and table tennis and snooker rooms inside, some have suggested its new owner could host their own mini-Olympics.
+Customers at Coutts in line for compensation as Queen's bank launches probe into 'unsuitable' investment advice
+      The review will conclude next year and could result in investors seeing the value of their portfolios adjusted or receiving compensation for any financial loss.
+'I thought we were crash landing': Terror for British passengers as Jet 2 flight from Cyprus makes emergency landing after loss of cabin pressure
+      The Jet 2 flight LS516 started to rapidly descend just an hour after departing from Paphos, Cyprus, to Newcastle last night.
+'I thought we were crash landing': Terror for British passengers as Jet 2 flight from Cyprus makes emergency landing after loss of cabin pressure
+From Londoners praying to New Yorkers using smartphones on the loo: Ikea survey reveals morning habits of major cities
+      The Swedish furniture giant has published a new study called Life At Home which looks at the morning habits of residents in Berlin, London, Moscow, Mumbai, New York, Shanghai and Stockholm.
+'It's time for the people to speak': Aunt of Spain’s new Queen Letizia tweets her followers calling for a Republic
+      Henar Ortiz Alvarez, the aunt of future queen Letizia Ortiz, made her feelings known on Twitter tweeting: It's time for the people to speak...'
+The Apple(by) doesn't fall far from the tree! Thousands of travellers soak up the sun during day two of annual horse fair in Cumbria
+       Travellers and tourists made the most of the sun at the traditional Appleby Horse Fair in Cumbria's Eden Valley today, where 10,000 gipsies and 30,000 visitors flocked to enjoy the event, the largest of its kind in Europe. Today a father and son stripped off to enjoy the festivities, right, while a young woman drove a pony and trap, left. Travellers come from all over the world to meet friends, do business, and most importantly, trade horses.
+      But researchers at the University of Pittsburgh found a man's consumption of alcohol had no influence on their daughter's drinking habits.
+Talking about alcohol can make you as aggressive as drinking it: Words such as 'beer' and 'wine' cause people to be hostile
+      University of Kent conducted a study in which students were exposed to either alcohol, or non-alcohol-related words. Those in the first group were more aggressive when given feedback on an essay.
+Restaurant rage: Living in an area with lots of fast food stores can make you impatient and unable to savour things, researchers warn
+      Toronto researchers say just the presence of the chains was enough to cause people to struggle to slow down and savour things.
+The transforming desk that moves up and down to keep you fit - and can even track how much exercise you get at the office
+      The $3,900 Stir Kinect desk has a motor to raise and lower itself, converting it into a standing desk or a traditional desk.
+The love story that helped Hawking reach for the stars: How unconventional 25-year marriage to first wife inspired world's greatest living scientist... and a movie
+      Eddie Redmayne had books on Albert Einstein in his dressing room when he took on the part of Professor Stephen Hawking for a film about the physicist's 25-year love affair with his first wife, writes BAZ BAMIGBOYE.
+The love story that helped Hawking reach for the stars: Eddie Redmayne to star in provocative film about physicist's 25-year marriage to first wife
+'I shall remain faithful to her until the day I die': New book reveals Roman Polanski's private memories of wife Sharon Tate, slaughtered by Charles Manson's 'Family' when she was pregnant
+      Sharon Tate's sister Debra has compiled a book of exclusive photographs and memories dedicated to the actress from her husband Roman Polanski.
+Sword-wielding Sikhs clash at India's Golden Temple during prayers to mark the deadly 1984 military assault at Amritsar
+       At least six people were injured as dozens of Sikh radicals clashed with supporters of the Shiromani Gurudwara Prabhandak Committee (SGPC) at the Golden Temple, in Amritsar. It is understood the scuffle erupted over who would speak first at the service, held to remember victims of government offensive Operation Blue Star that left hundreds dead on June 6, 1984.
+'Stabby, stab, stab': Two US girls, 12, who knifed schoolmate 19 times used code words to plan horrific 'Slender Man' attack
+      A police document compiled soon after the stabbing in Waukesha, Wisconsin, revealed that when Morgan Geyser and Anissa Weier discussed the attack, they would use the word 'cracker' to describe a knife or killing.
+Pictured: The 'hero student' who stopped a shotgun-wielding killer after he opened fire at US university, killing one and wounding three
+      Students at Seattle Pacific University say Jon Meis saved countless lives when he sprang into action as the shooter stopped to reload his weapon.
+Extravagant hen dos now cost guests so much they rival the amount spent on attending the actual wedding!
+      Gone are the days of a knees-up down the pub as the average cost of attending a hen do has rocketed and often involves a trip abroad.
+New obesity jab could be available within two years after scientists discover hormone that helps the body burn fat
+      Researchers at Havard Medical School and the Dana-Farber Cancer Institute in the U.S. have found a new hormone, they believe could provide the key to treating obesity and diabetes.
+Shot twice, stuffed in a sack and dumped in a canal... but Pakistani girl, 18, SURVIVES botched 'honour killing' carried out by her own family for marrying the man she loved
+       Saba Maqsood (pictured) was attacked by her father, uncle, brother and aunt before she was tossed into the canal, said Ali Akbar, a spokesman for police in Hafizabad, Punjab province. It comes just a week-and-a-half after the broad daylight 'honour killing' of another woman in a city centre drew worldwide condemnation. Mr Akbar told Reuters that the most recent case was also 'an honour-related incident'. 'The victim, Saba ... married her neighbour Muhammad Qaiser for love five days ago against the wishes of her family,' he said.
+Woman, 50, who set up the rape of underage teenage girl by landlord to pay off debts is jailed for eight years
+      Muriel Coleman, of Stanley, Durham, organised meetings between the vulnerable youngster and Akhtar Hassan whose family owned the house she lived in after she fell just over £1,000 behind on her rent.
+Now that's a randy rodent! Male guinea pig at animal sanctuary breaks free from his cage and makes 100 females pregnant
+      The two-year-old rodent - nicknamed Randy - managed to get all of the female guinea pigs at Hatton Country World, Warwickshire, pregnant before staff cottoned on to his antics.
+Weak pound and high cost of living: Why retiring abroad is now branded 'a luxury' with some popular destinations even pricier than UK
+      Experts warned moving abroad is 'no longer an option for the average British person' according to experts, due to rising prices in Europe.
+Britons' favourite drive is the A470 through Snowdonia National Park and the Brecon Beacons (and everyone hates the M25)
+      Wales and Scotland topped the poll for the best UK roads, followed by the north of England, but the south has most of the worst roads in Britain.
+Don't look down! World's tallest tower will feature an elevator that travels at 32 feet a SECOND when it opens in 2018
+The Kingdom Tower in Jeddah, Saudi Arabia will feature the world's fastest double-decker elevator which will let visitors travel over 2,165ft (660metres) in one go. It will ascend the mighty skyscraper at 32ft (10 metres) a second. The lift will use high-tech carbon fibre cables, and this UltraRope technology is lighter than conventional steel cable.
+Masked rapist, 67, who attacked 100 women over 30 years is finally caught after woman fights him off in Moscow park
+      Valery Makarenkov prowled the streets and parks of capital Moscow preying on women in a reign of terror that spanned more than 30 years.
+Would YOU eat it? Seaside parlour creates battered fish and chip flavoured ice cream - complete with mushy peas
+      Teare Wood's Ice Cream Parlour, in Whitby, North Yorkshire, has combined the traditional holiday tastes to tempt tourists.
+      Research published in the journal The Obstetrician and Gynaecologist shows a small percentage of headaches were caused by potentially life-threatening neurological conditions.
+Supermarkets cut 2p off a litre of diesel as wholesale price drops finally filter through to motorists
+      Three of Britain’s biggest supermarkets are chopping 2p a litre off diesel prices at the pumps tomorrow morning, days after criticism from a motoring organisation.
+China outrage after toddler, 2, is pictured smoking in the street like an 'old pro' as people stand back and laugh
+      The footage appears to show the child in a street in China puffing on the cigarette and despite passing adults, nobody attempts to take the cigarette away. Passers-by can be heard laughing as the little boy smoke the cigarette and it has sparked fresh debate about the scale of China's tobacco problem, with around 30 per cent of the country's population having the habit.
+Ex-boyfriend murdered hairdresser by stabbing her 14 times at salon in front of horrified colleagues after they split up
+       Asher Maslin, left, 22, stabbed 20-year-old Hollie Gazzard, right, 14 times as she worked at Fringe Benefits and La Bella Beauty salon, inset, in front of horrified bystanders in Gloucester city centre. Maslin purchased a knife before heading to the salon after the pair had separated. He pleaded guilty to the killing during a hearing at Bristol Crown Court and he has been told to expect a life sentence later this month.
+Ex-boyfriend murdered hairdresser stabbing her 14 times at salon in front of horrified colleagues after they split up
+Flight of a lifetime! 130 tickets go on sale to fly alongside Lancaster bomber that's in UK for last time - but it will set you back £2,150
+      The Lancaster will be in the UK, flying from Canada to England, for four days, arriving on August 8, making the 18-hour trip for the first and final time.
+The Best Night Ever! Woman, 28, goes into labour at One Direction concert - and nearly names him Harry in honour of Mr. Styles
+      Sarah Turnbull, 28, from Glebe in Washington, County Durham, was 39 weeks pregnant when her waters broke during One Direction's gig in Sunderland.
+Two people rescued by police after barricading themselves in a bedroom because they were scared of their dog Fluffy
+      The dog owners blocked themselves in their home in Huddersfield, West Yorkshire, after becoming frightened of their Staffordshire bull terrier, Fluffy (pictured).
+Motorcyclist rushed to hospital and bystanders injured by flying debris after crash with a police car
+      The motorcyclist suffered left head and leg injuries in the crash at around 1.20pm on the Cotton Street junction with Poplar High Street, in Poplar, east London.
+Submarines on Titan and giant nets to capture asteroids: Nasa unveils futuristic designs that could help explore new worlds
+       Nasa has unveiled 12 proposals for next-gen exploration technologies in Washington, including a mission to bag an asteroid (illustration left), a submarine in Titan's largest sea (top right) and a spacecraft that could travel from the sun to Neptune in a year (bottom right). These will each receive $100,000 of funding for study over 18 months.
+World's biggest tumour weighing 30lbs and the size of a watermelon is removed from the uterus of Indian woman
+      WARNING GRAPHIC CONTENT: Surgeons in the city of Chennai spent three-and-a-half hours removing the giant uterine tumour, which could have been growing for two years.
+      When hungry, people were found to find a wider range of body shapes attractive and were more likely to be attracted to bigger people.
+      Researchers from the National Institute of Drug Abuse (NIDA) in the U.S. say the damaging effects remain even if a person stops smoking cannabis in adulthood.
+      The footage, captured on the cyclist's GoPro helmet camera shows the confrontation in a Dublin street, which sees the driver threaten to 'run over' the cyclist.
+This is how you catfight, son! Father teaches his kittens the best way to pack a punch when he sees how terrible they are at brawling
+       A cat dad eager to teach his two kittens how to fight appears in an hysterical video shot in an unknown location that proves boys will be boys no matter the species. The YouTube clip from user kamzer opens with two very young kitten siblings wrestling on a kitchen counter. Suddenly their papa cat peeps up from the floor below and before they can purr 'TKO,' their dad is in the mix teaching them a proper left hook.
+So you think you can dance? Two kittens wow with their perfectly synchronized groove to hip hop track
+      The cats were filmed at the home of Hayley Markham and Andrew Kerr in Virginia, as they danced to DJ Snake and Lil Jon's 2013 club sensation Turn Down For What.
+Killed by a single punch: Thug admits killing pensioner with a single blow after 'scuffle' outside pub
+      Sean Sillet, 20, pictured, pleaded guilty the manslaughter of Kenneth Brough, 65, outside the Beehive in Newcastle's Bigg Market on January 28.
+Girlfriend of Camilla's tragic brother Mark Shand leads tributes to him at fundraiser for endangered elephants held in his memory
+      More than 600 guests attended the evening in London hosted by Mr Shand's nephew Ben Elliot, Elephant Family’s CEO and Mr Shand's former girlfriend Ruth Powys as well as Sotheby’s Chairman Henry Wyndham.
+Terrifying moment motorist gets mobbed by dozens of drunk Frenchmen who jump up and down on her car after spilling out of BMX festival
+      Dozens of drunk and overexcited extreme sports fans brought an area of central Montpellier, France, to a standstill last night after spilling out of the city's famous FISE festival and attacking cars that stood in their way.
+Filthy fish and chip shop shut down after dead mice were found rotting while staff cooked meals and droppings were found in spice mix
+       Health inspectors investigating an Oldham takeaway discovered rotting mice decaying on a glue trap, left, with a deep fat frying covered in grease and fat, top right, and work surfaces used for preparing food covered in mouse droppings, a court has heard. Owner Sarfaz Rouf told magistrates that he did not have a 'vast knowledge' of food hygiene. Him and Iram Bibi were fined just £250 each and the business has now closed.
+      One man gets through the front door to find his Old English Sheepdog reared on its back legs and happily plants a kiss on its head.
+How the moon was made: Researchers reveal new evidence Earth was hit by giant object as big as Mars 4.5 billion years ago
+      German researchers say their analysis of Apollo moon rocks rocks show Earth was hit by a huge object called 'Theta' which led to the moon's formation.
+Did HUMANS wipe out the woolly mammoth? Study finds a direct link between hunting and the extinction of large Ice Age animals
+      Researchers at Aarhus University in Denmark came to the conclusion after looking at the pattern of extinctions for 177 species between 132,000 years and 1,000 years ago.
+Sky-high WiFi will soon be available across Europe: Passengers on British Airways flights to get internet within three years
+      Internet will be soon be available on British Airways flights (pictured) across Europe. The service will be provided by London-based satellite operator Inmarsat.
+At last - something to get pedestrians out of the way when you're running: Couple design a 'run bell' to clear the path ahead
+       The Runbell is a small brass bell that can be worn on the fingers and rung when slow-paced walkers get in your way. It weighs just 30g and will be sold for about £12. The creators say the design was based on other items of popular jewellery and that it comes in different styles for men and women.
+My Big Fat Gypsy horse fair: Traditional gathering begins in Appleby - and is already hit by row over 'invasion'
+      A large number of traveller families have pitched cars, caravans and horse buggies on a privately owned golf course in the small market town of Appleby, Cumbria.
+Tasty Terracotta Army! Food artist makes China's iconic warriors with PIZZA dough (but they won't last thousands of years)
+      Annabel de Vetten created the scaled-down warriors to celebrate the opening of Pizza Express' 500th restaurant... in Beijing.
+You appear to have an ad-blocker running which will prevent this page from functioning as intended. Please disable your ad-blocker or set an exception for this page.Today's hottestfashion findsSee moreRihannaWow like Rihanna in an embellished sheer dressRead more ›KarruecheWork a simple white dress into your summer wardrobeRead more ›KourtneyGo back to black in monochrome Nike trainersRead more ›MichellePut a playful spin on your wardrobe with Michelle's playsuitRead more ›
+          'I am not an opportunist!' Fan who bought Whitney Houston's mansion for $1.5m insists he will NOT open it to the public
+          Christie Brinkley, 60, proves you're never too old for leather trousers as she stuns on lunch date with her son Jack
+          Showing off her street style! Emmy Rossum awaits Stella McCartney presentation on the sidewalk in chic fringe dress
+          Orange Is The New White! Taylor Schilling shows off toned pins in pearl-coloured dress at TheWrap's Emmy Celebration
+          'Ready to rumble!' Pretty Little Liars star Tammin Sursok puckers up for the camera as she celebrates returning to work after giving birth seven months ago
+          Did she use those scissors on her skirt? LeAnn Rimes sizzles in slinky white dress with thigh-high slit as she cuts ribbon to kick off CMA Music Festival
+          Over already? Jennifer Lopez parties in NY with handsome rapper T.I.... as 'cheating' toy boy Casper Smart is nowhere to be seen
+          Carey Mulligan and Helena Bonham Carter chant at a Votes for Women rally in first still from upcoming film Suffragette
+          Are those clothes from the Thrift Shop? Macklemore and Ryan Lewis make a cool arrival in dapper attire to Sin City nightclub
+          Happy to get his kit off! Robbie Williams gets help to change into his football top during preparations for SoccerAid
+          One big happy family! Hilary Swank shows her maternal side as she gives her boyfriend's little girl a kiss at French Open
+          'I've had a lot of therapy': Katy Perry talks about getting over exes John Mayer and Russell Brand... and how long she's gone without sex in new interview
+          Ricky Gervais and longtime partner Jane Fallon attend Derek event after visiting their Muppet pals on Sesame Street
+          Date night! Twilight star Ashley Greene stuns in tiny black playsuit at she takes boyfriend Paul Khoury to glitzy event in West Hollywood
+          While they were teaching! Sandra Bullock makes a surprise visit to her son Louis' school as she donates goodies to the faculty
+          What will Rita think? Calvin Harris parties with ANOTHER mystery woman on a night out as girlfriend Ora enjoys Mexican getaway
+          Evan Rachel Wood sued for $30M after bailing on film 10 Things I Hate About Life... as rep slams lawsuit as 'preposterous' and a 'bullying tactic'
+          'With you I will go': Kanye West beams as Italian tenor Andrea Bocelli serenades Kim Kardashian at their lavish Florence wedding
+          Newlywed Kim Kardashian to spend up to a month shooting KUWTK spin-off in The Hamptons... but Kanye West isn't sure if he wants to join her
+          Deja blue: Rosario Dawson is back in her favorite colour after wowing in that revealing gown at the Cannes Film Festival
+          'I'm Sporty Spice!' Gisele Bundchen shows off washboard stomach in a bikini for cover shoot as she admits she loves to exercise
+          That's her secret! Jordana Brewster shows off svelte arms pushing her son Julian along in his stroller
+          The fight for $50m: Bowling For Columbine filmmaker Michael Moore claims wife of 22 years spent recklessly as they prepare for divorce trial
+          Third time's the charm! Tegan Martin finally wins Miss Universe Australia - and she's from the same home town as Jennifer Hawkins!
+          She's no shrinking violet! Lorde wears purple lipstick from her new Mac collection during bewitching performance in London
+          Looking scarily good! Camilla Belle wears a skull print T-shirt as she arrives at LAX after South America trip
+          You'll never take King's Landing with THAT! Game Of Thrones star Kit Harington poses with plastic dragon at Universal Studios
+          'To go from hating the way I look to a centerfold is a profound honour': Man V. Food host Adam Richmand poses NAKED following 70lb weightloss
+          Shane Warne caught kissing and sharing intimate embrace with Playboy cover girl Emily Scott... but he STILL insists he's single
+          Boho babe: Alessandra Ambrosio forgoes make-up as she runs errands in LA clad in a pretty lilac tie-dye maxi-dress
+          King Kevin rules supreme: Spacey is magnificent in one-man show Clarence Darrow, writes QUENTIN LETTS
+          BAZ BAMIGBOYE: Let's hear it for the Scottsboro Boys! Brandon Victor Dixon to star in West End production of extraordinary show
+          Poetic, haunting... these D-Day letters moved me to tears: CHRISTOPHER STEVENS reviews last night's TV
+          A hit and miss comedy: There are funny moments, but Jump Street's daft cops fail to reach the hilarious heights of their first film
+          This won't do Grace any favours: BRIAN VINER reviews Nicole Kidman's latest film Grace of Monaco
+          'I shall remain faithful to her until the day I die:' Roman Polanski shares private memories of wife Sharon Tate in new book on pregnant beauty's tragic life
+          Hollywood's $800 facial: The secret to Angelina Jolie's glowing skin combines microdermabrasion, laser and a peel
+          It's DJ Delta! The Voice Kids coach Goodrem jets home from Hollywood with an edgy new look complete with ripped jeans and shiny headphones
+          She's certainly a good advertisement! US TV presenter Maria Menounos promotes her diet and fitness book in shiny black shorts in New York City
+          'I gave him every bit of advice but now it's up to him': Usher opens up about his friend Justin Bieber's spiral out of control
+          It's ON Again! Spring Breakers star Ashley Benson steps out with her beau Ryan Good wearing a bright playsuit
+          Put away the bowl! Cindy Crawford reveals her stunning mane of hair was not always her crowning glory in cute flashback photo
+          'I almost killed Tom Cruise!' Emily Blunt recalls terrifying moment she nearly crashed a car while shooting scenes for Edge Of Tomorrow
+          Still a sex symbol! Raquel Welch, 73, looks decades younger in white jeans and yellow jacket while out to dinner
+          Her own best ad! Kate Hudson displays her washboard abs as she models for fitness line... and shares her workout motivation
+          Angela Simmons displays toned physique in sexy summery outfit as she hints at new venture following power lunch with her 'fitness gurus'
+          The Devil Wears...white! Meryl Streep goes sinister as the Chief Elder of a dystopian society in The Giver
+          Nature girl! Vanessa Hudgens shows off her toned tummy in black crop top and shorts during a vigorous hillside hike
+          'I'd be open to doing more True Detective': Matthew McConaughey expresses interest in reprising Rust Cohle TV role
+          Pretty as a picture! Jessica Alba shows her passion for prints while leaving the studio with takeout lunch
+          That's where she gets it from! Leggy Gigi Hadid is chic in short metallic frock while out with her stylish mother Yolanda Foster
+          Natalie Portman is fresh-faced and flawless as she touches down at LAX with husband Benjamin Millepied and their adorable son Aleph
+          Good news for Miley Cyrus as police 'arrest two people in their 20s' in connection with star's stolen $100k Maserati
+          Hot mama! Country singer Jessie James shows off her trim post-baby body at CMT Awards... just three months after giving birth
+          Don't mention the outfit! Even Lena Dunham has 'no comment' over her unflattering ensemble as she enjoys a stroll in New York
+          'Superhero workout!' Arrow's Stephen Amell shows off his impressive 'parkour' skills on military inspired obstacle course
+          Strong sensitive types! Insurgent's Theo James brings Fault In Their Stars book to the gym while Miles Teller pumps some iron
+          Farrah Abraham reveals she's writing a Christian parenting book... despite admitting she needs 'space' from her four-year-old and waxes child's eyebrows
+          She's glowing: Holly Willoughby shows off growing bump in navy skater dress as she films This Morning segment
+          She's anything but PLANE! Carol Vorderman shows off her pins in hot pink and black dress at photocall after jetting herself back from awards show
+          'We've got a Christmas bun in the oven! Coronation Street's Paula Lane announces first pregnancy with childhood sweetheart Tom Shaw on Twitter
+          'I'm going to get stick for this': Amy Willerton posts bikini selfie... but worries about how her fans will react
+          'Squats are the key! Even 10 make me feel better': Victoria's Secret Angel Candice Swanepoel reveals secrets behind that body
+          The lady is a vamp! Rihanna unleashes her rock chick side in a skimpy leather two-piece and fierce lace-up heels for Paris charity event
+          Explicit content! Lindsay Lohan can't even manage a supporting role in sheer logo top... but at least gives parental advisory warning
+          A leggy Lily Allen makes rare appearance with husband Sam Cooper for date night at Chiltern Firehouse
+          Think pink! Alex Gerrard shows off her toned figure and glowing tan in bubblegum-hued workout gear
+          She's well-heeled: BGT star Lettice Rowbotham whips off her shoes as she heads to BBC studios
+          Russell Brand DEFENDS Justin Bieber for making vile racial slurs at the age of 14... claiming he should be 'let off' because it was 'ages ago'
+          Whatever the leather: New mum Caprice shows off her post-pregnancy figure in skin-tight leather skirt and top
+          Welcome to the strip: Danielle Lloyd and husband Jamie O'Hara jet into Vegas for a holiday with friends
+          Not a bad consolation prize! Michael Carrick puts World Cup woes behind him as he and wife Lisa strip to their swimwear to top up their tans in Ibiza
+          Graham Norton saves Amanda Holden from revealing more than she intended while doing a handstand in LBD
+          It's a very Vogue birthday: Model Bambi Norwood-Blyth celebrates by shooting for fashion magazine with designer husband Dan Single
+          J-Wow! Jennifer Lopez doesn't leave much to the imagination as she strips down to sexy latex stockings and suspenders to play first-ever hometown gig
+          J.Lo revisits the Bronx and THAT Versace dress for homecoming show... after transsexual bikini model linked to Casper Smart speaks out
+          Feeling like a million dollars! Matchmaker Patti Stanger, 53, wears plunging swimsuit as she celebrates her birthday with toyboy fiancé
+          Do Ya Thang! Rihanna is sexy in a silky black miniskirt and matching tuxedo jacket as she goes for dinner in Paris
+          Here comes the bride! Adam Levine to marry model Behati Prinsloo in 'intimate Mexican ceremony' on July 19
+          Politics is the new black: AnnaLynne McCord votes for her spiritual guru as congressional candidate... but she comes in fourth
+          She can't resist her man in uniform! Suki Waterhouse gets to grips with Bradley Cooper on set of American Sniper
+          Million dollar smile! Victoria Justice beams in an unusual wrap dress at the Spent: Looking For Change premiere
+          Strong after 22 years! Woody Allen strolls through Central Park with Soon-Yi Previn... as he prepares to shoot Emma Stone movie in Rhode Island
+          Mama June doesn't let her 'forklift foot' get in the way of a family pool day as she goes swimming in socks
+          Ramona Singer holds hands with husband Mario on romantic movie date... after firing off legal warning to his mistress over 'lewd messages'
+          'Millie Mackintosh and Abbey Clancy already have their eyes on a few pieces': Julien Macdonald unveils glamorous beachwear range for Matalan
+          She's stopping traffic: Elsa Pataky wears striking lime green reptilian dress to take over the streets of Madrid for fashion shoot
+          Ivana Trump sells her Palm Beach mansion for $18 million - more than FOUR TIMES what she paid for it in 1994
+          Table for three! Pregnant Julia Carey displays subtle baby bump as she steps out for dinner with James Corden at Chiltern Firehouse
+          Beyonce shows off her amazing legs in pink mini dress as she has a date night with Jay Z in New York
+          Former prostitute Helen Wood who had threesome with Wayne Rooney set to reveal sex secrets in Big Brother house
+          Watch your tan-line! Abbey Clancy wows in a daring cut-out panel swimsuit as she holidays in Hawaii with Peter Crouch
+          Now that's a game plan! Gisele Bundchen and Tom Brady's sprawling new Boston mansion takes shape
+          Your slip is showing! Leggy Chrissy Teigen heats up New York in black lace lingerie and white knit sweater while heading to dinner
+          Looking slinky! Casey Batchelor struts in shiny snakeskin leggings and low-cut top as she models her new fashion collection
+          She's got it! Eliza Doolittle is a triumph in plunging leather crop-top and sporty silk trousers at The Other Ball
+          'There's quite a bit of blood': The 911 call made after The Brady Bunch housekeeper Ann B Davis has fatal fall is released
+          Does she EVER stay in? As Princess Beatrice dines at Roka, we bring you the hotspot-hopping royal's guide to London's smartest restaurants
+          From Iceland to ice cool: Sexiest Woman of All Time Rachel Stevens swaps supermarket chic for a semi-sheer top and smart tailoring
+          Hawaii-five-WHOAH!! Emma Roberts bares her toned tum in daring crop top... while Lupita Nyong'o is a vision in green at the Maui Film Festival opening 
+          Is this Jen 2.0? Meet the 2014 Miss Universe Australia finalist who works as Jennifer Hawkins' body double - and she's from her home town!
+          'No more marriages': Pregnant Katie Price vows to never wed again after third husband Kieran Hayler cheated on her
+          He's leaving Home! Summer Bay's resident  hottie Lincoln Younes swaps surfing for the 1960s as he takes a new role in Love Child
+Thor, god of the lie-in! 'Talking' puppy growls 'no' at his owner as he's told to get out of bed at 3:30am
+       Thor the dog from Birmingham, Michigan, is seen in a video peacefully lying in bed before being woken up at 3.30am. But showing that it's not just humans who struggle in the morning, the little pup repeatedly growls what sounds like 'no' as he refuses to get up.
+Is that an Old Master painting - or Beyonce’s Master Cleanse? Photographer recreates celebrity diets as still lifes
+      Italian Dan Bannino reproduced the diets of Gwyneth Paltrow, Kate Moss, Beyonce Knowles, Simon Cowell, and even King Henry VIII.
+Fizzy drinks 'loaded with harmful sugars could increase the risk of developing diabetes, cardiovascular and liver disease'
+      Researchers at the University of Southern California say the drinks contain more fructose, which is converted to fat in the liver, than people realise.
+       The rhino was part of a relocation programme in the Zululand region of South Africa, which aims to keep the animals safe. The images of its dramatic airlift, which was carried out by KZN Wildlife Game Capture, were taken by photographer Em Gatland, who described witnessing the transfer as surreal and a mixture of emotion.
+China may have banned Tiananmen Square memorial but the rest of Asia remembers: From Hong Kong to Taiwan thousands hold vigil on 25th anniversary of Beijing massacre
+Dont come back, next time you wont get out alive: Talibans taunt as they released deserter POW Bowe revealed in propaganda video
+Pictured: Grinning father of famous model moments after he executed his neighbour and minutes before he 'swallowed the gun' in dramatic standoff with Chinese SAS
+Suicidal Chinese mother leaps from third floor balcony after her daughter refused to break up with 'lazy' boyfriend (but miraculously survives)
+Hundreds of pro-Russian rebels killed in fierce attack by Ukrainian forces as Obama tells Nato allies 'you'll never be alone'
+Thousands of anti-monarchist protesters take to streets of Spain calling for a republic after King Juan Carlos abdicates after 39 years
+Woolly jumpers, wide collared jackets and unflattering skirts ... the medal for worst Commonwealth Games uniforms goes to Australia
+King Juan Carlos of Spain in shock abdication after 40 years as his son and glamourous ex-newsreader wife take on challenge of leading Spain out of the doldrums
+Spain harbours highest number of expat benefit cheats with more than 700 believed to be scamming the system while soaking up the sun
+Mother of British backpacker missing in Malaysian jungle for six days arrives in country 'to be here when they find him'
+Come here you big BULLy! Chinese wrestlers get to grips with giant calves in man over beast competition
+China disgust at woman who beheads cat and posts image online - and then blames 'alcohol and domestic misfortune'
+Bodies of five French soldiers from WWI found alongside their wallets, rifles and a figurine of the Virgin Mary in French wood 100 years after they were killed
+Mother in tears after being called a 'slut' by two customers for breastfeeding her son in Costa coffee
+Farage, hand in hand with a blonde travel rep at 3.42am in Malta: But married Ukip leader dismisses claims of...
+Obama pleads with Scotland to vote 'No' to independence AND for Britain to stay in the European Union
+Brother of Sudanese woman facing death penalty for ‘abandoning her Islamic faith’ by marrying a Christian says...
+Home of the free! Father paints his house with stars and stripes in protest at local officials who tried to...
+Pictured: The 'hero student' who stopped a shotgun-wielding killer after he opened fire at Seattle Pacific...
+'I'm done': 'Rambo' killer finally SURRENDERS in woman's front yard after going on shooting rampage that left...
+'This tiny sliver of land… changed the course of human history': Obama leads tributes to D-Day heroes as world...
+A cat dad eager to teach his two kittens how to fight appears in an hysterical video, that proves boys will be boys no...
+Emotional moment US marine is reunited with bomb-sniffing dog who kept him safe in Afghanistan after they were separated four years ago without saying goodbye
+       U.S. Marine Corps veteran Corporal Jeff DeYoung of Muskegon, Michigan worked with bomb-sniffing black Lab Cena until April 2010. That's when DeYoung went home to Michigan and he's since started a family but never forgot about his best canine friend. Their emotional reunion took place Thursday at the Detroit airport thanks to a non-profit group called Mission K9 Rescue.
+      Researchers at the University of Southern California say fasting could be particularly beneficial for people whose immune systems have been damaged by chemotherapy.
+Couples that sleep together, stay together: Spouses are more likely to slumber in sync if the wife is satisfied with their marriage
+      New study showS that overall synchrony in sleep-wake schedules among couples was higher when the woman was happier in the relationship.
+Who left the hand-brake off? Investigation under way after Ryanair plane rolls backwards and crashes into airport building, destroying tail wing
+      The force of the impact tore apart the rear stabiliser of the £72m Boeing 737 at Rome Ciampino Airport yesterday.
+Malaysian police refuse to rule out foul play in case of missing backpacker Gareth Huntley as his family await autopsy to determine whether shirtless body found in Malaysian jungle pond is him
+      Mr Huntley's mother Janet Southwell, who arrived in Malaysia on Monday was pictured this morning outside Tengku Ampuan Afzan Hospital in Kuantan with his girlfriend Kit Natariga.
+Shocking moment one-armed Russian motorist starts furious road rage punch-up with car behind... but then ends up getting badly beaten
+       A one-armed Russian man (circled, top left) has been filmed starting a road rage fight in Moscow, but quickly has the tables turned on him as he is kicked in the head and has his false arm pulled off (bottom right). Nikita Korolev, 43, and Kiril Stepanov, 45, started punching and kicking the occupants of a car behind them through the open windows after the driver refused to back up, but ended up being beaten themselves.
+          Follow Sportsmail's coverage of the French Open, as Andy Murray takes on Rafael Nadal in the semi-finals
+          Stuart Pearce insists Everton midfielder Ross Barkley should not be in Brazil this summer at all
+          Robin van Persie has declared himself 100 per cent fit for the World Cup as the Dutch squad arrived in Rio
+          The Azzurri hit a hiccup ahead of the World Cup when they realised their plane was too small
+          Aston Villa have sounded out Rio Ferdinand over a possible move to Villa Park - but the defender is thought to favour Spurs
+          Jose Mourinho has admitted Chelsea are interested in signing the former Arsenal captain from Barcelona 

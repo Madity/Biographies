@@ -1,0 +1,12 @@
+conservative
+friendly
+demanding
+intelligent
+kind
+bright
+stubborn
+modest
+down-to-earth
+responsible
+active
+strict

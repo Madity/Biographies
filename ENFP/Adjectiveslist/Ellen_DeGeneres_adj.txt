@@ -1,0 +1,15 @@
+critical
+kind
+proud
+creative
+rude
+religious
+animated
+charitable
+firm
+somber
+bold
+active
+peaceful
+traditional
+silent

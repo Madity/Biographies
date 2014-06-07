@@ -1,0 +1,16 @@
+1   Erasmus_of_Rotterdam_adj.txt  ENFJ                    65
+2   Cicero_adj.txt                ENFJ                    60
+3    Kate_Winslet_adj.txt          ENFJ                    59
+4   John_Paul_II_adj.txt          ENFJ                    56
+5    Tony_Blair_adj.txt            ENFJ                    49
+6    Erich_Fromm_adj.txt           ENFJ                    44
+7   Nelson_Mandela_adj.txt        ENFJ                    43
+8    Alfred_Adler_adj.txt          ENFJ                    42
+9    Nigella_Lawson_adj.txt        ENFJ                    41
+10   Pericles_adj.txt              ENFJ                    39
+11   Martin_Luther_King,_Jr._adj.txtENFJ                    38
+12   Johann_von_Goethe_adj.txt     ENFJ                    37
+13    James_Lipton_adj.txt          ENFJ                    36
+14    Joe_Biden_adj.txt             ENFJ                    35
+15    Oprah_Winfrey_adj.txt         ENFJ                    35
+16    Bono_adj.txt                  ENFJ                    34

@@ -1,0 +1,11 @@
+reliable
+kind
+objective
+conservative
+inconsistent
+tough
+competitive
+traditional
+quiet
+emotional
+honest

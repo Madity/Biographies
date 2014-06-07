@@ -1,0 +1,440 @@
+sympathetic 1 a
+kind 1 a
+warm 1 a
+understanding 1 a
+courteous 1 a
+compassionate 1 a
+cooperative 1 a
+affectionate 1 a 
+considerate 1 a
+sincere 1 a
+sentimental 2 a e
+polite 2 a c
+respectful 1 c
+cordial 1 a
+helpful 1 a
+tolerant 2 a e
+charitable 1 a
+sensitive 2 a e
+agreeable 1 a
+pleasant 1 a
+feminine 1 a
+trustful 1 a
+loyal 1 a
+thoughtful 1 a
+peaceful 2 a e
+obliging 1 a
+generous 1 a
+amiable 1 a
+cheerful 2 a ex
+mannerly 2 a c
+flexible 1 a
+reasonable 1 a
+modest 1 a
+genial 2 a i
+jovial 2 a ex
+accomodating 1 a
+humble 1 a
+gullible 1 a
+moral 1 a 
+honest 1 a
+religious 1 a
+passionate 1 a
+optimistic 2 a ex
+lenient 1 a
+benevolent 1 a
+unselfish 1 a
+conscientious 2 a c
+reverent 2 a c
+tactful 3 a i c
+earnest 2 a i
+adaptable 2 a ne
+truthful 3 a e nc
+naive 4 a nex nc ni
+altruistic 2 a i
+compliant 2 a nex
+natural 1 a
+suggestible 2 a ni
+selfless 3 a nex e
+cold 2 na nex
+harsh 1 na
+rude 1 na
+unsympathetic 1 na
+antagonistic 1 na
+abusive 1 na
+rough 1 na
+inconsiderate 1 na
+egotistical 1 na
+combative 1 na
+callous 1 na
+domineering 2 na ex
+impolite 1 na
+belligerent 1 na
+ruthless 1 na
+coarse 1 na
+abrupt 1 na
+insincere 1 na
+cruel 1 na
+unkind 1 na
+insensitive 1 na
+impersonal 2 na nex
+scornful 1 na
+uncharitable 1 na
+cynical 1 na
+bitter 1 na
+uncooperative 1 na
+demanding 2 na e
+egocentric 1 na
+conceited 1 na
+bigoted 1 na
+intolerant 1 na
+unforgiving 1 na
+disrespectful 2 na nc
+tough 1 na
+sly 1 na
+stubborn 1 na
+greedy 1 na
+argumentative 1 na
+bullheaded 1 na
+boastful 1 na
+critical 2 na e
+rebellious 1 na
+deceitful 1 na
+sarcastic 1 na
+underhanded 2 na i
+vindictive 2 na ni
+suspicious 2 na e
+devious 1 na
+thoughtless 2 na nc
+ungracious 4 na nex nc ne
+prejudiced 1 na
+uncouth 1 na
+tactless 2 na nc
+manipulative 1 na
+cunning 2 na ex
+opinionated 2 na ex
+unruly 3 na ex nc
+rigid 2 na c
+obstinate 2 na e
+stingy 2 na e
+nonreligious 4 na nc ne i
+smug 1 na
+skeptical 3 na nex i
+vain 2 na e
+irreverent 1 na
+crafty 1 na
+masochistic 1 na
+self-seeking 3 na e i
+extroverted 1 ex
+talkative 1 ex
+aggresive 2 na ex
+sociable 1 ex
+social 1 ex
+assertive 1 ex
+bold 1 ex
+verbal 1 ex
+enthusiastic 1 ex
+spirited 1 ex
+confident 2 ex ne
+xommunicative 1 ex
+magnetic 1 ex
+energetic 1 ex
+daring 1 ex
+rambunctious 1 ex
+outspoken 1 ex
+vivacious 2 a ex
+dominant 2 na ex
+merry 2 a ex
+unrestrained 1 ex
+active 1 ex
+boisterous 1 ex
+assured 2 ex ne
+uninhibited 1 ex
+playful 1 ex
+happy-go-lucky 1 ex
+vigorous 1 ex
+friendly 2 a ex
+flamboyant 1 ex
+adventurous 1 ex
+expressive 1 ex
+forceful 2 na ex
+carefree 1 ex
+flirtatious 1 ex
+competitive 1 ex
+mischievous 1 ex
+direct 1 ex
+spontaneous 1 ex
+zealous 1 ex
+gregarious 1 ex
+exhibitionaist 1 ex
+straightforward 1 ex
+humorous 1 ex
+frank 1 ex
+opportunistic 1 ex
+demonstrative 1 ex
+enterprising 2 ex i
+sexy 1 ex
+hearty 2 ex na
+wordy 1 ex
+explosive 3 na ex e
+witty 2 ex i
+persistent 2 ex c
+proud 2 ex c
+impetous 2 ex nc
+intrusive 3 na ex ni
+withdrawn 1 nex
+silent 1 nex
+introverted 1 nex
+shy 1 nex
+quiet 1 nex
+reserved 1 nex
+timid 2 a nex
+bashful 1 nex
+unsociable 1 nex
+inhibited 1 nex
+uncommunicative 1 nex
+passive 1 nex
+meek 1 nex
+restrained 1 nex
+dull 1 nex
+bland 1 nex
+sedate 1 nex
+somber 1 nex
+melancholic 1 nex
+unfriendly 1 nex
+unadventurous 1 nex
+detached 1 nex
+uncompetitive 1 nex
+submissive 2 a nex
+cowardly 1 nex
+indirect 1 nex
+pessimistic 1 nex
+negativistic 2 na nex
+placid 1 nex
+sluggish 1 nex
+nonpersistent 1 nex
+serious 2 nex c
+aloof 1 nex
+vague 2 nex nc
+docile 2 a nex
+secretive 1 nex
+unimaginative 2 nex ni
+wary 1 nex
+lethargic 1 nex
+unaffectionate 2 nex ne
+prudish 1 nex
+apathetic 2 nex ni
+humorless 1 nex
+impartial 2 nex ne
+organized 1 c
+precise 1 c
+responsible 1 c
+thorough 1 c
+efficient 1 c
+orderly 1 c
+self-disciplined 1 c
+practical 1 c
+systematic 1 c
+dependable 2 a c
+reliable 2 a c
+exacting 1 c
+concise 1 c
+careful 1 c
+prompt 1 c
+logical 1 c
+consistent 2 c ne
+steady 2 c ne
+meticulous 1 c
+decisive 1 c
+punctual 1 c
+firm 1 c
+economical 1 c
+cautious 2 nex c
+strict 1 c
+purposeful 1 c
+dignified 1 c
+formal 1 c
+perfectionist 1 c
+mature 1 c
+industrious 1 c
+stern 1 c
+controlled 1 c
+alert 1 c
+rational 2 c i
+thrifty 1 c
+ambitious 1 c
+conservative 1 c
+wise 1 c
+sophisticated 1 c
+foresighted  2 c i
+deliberate 1 c
+refined 2 a c
+principled 2 a c
+cultured 2 a c
+objective 2 c i
+moralistic 3 a c ni
+discreet 3 a nex c
+poised 1 c
+disorganized 1 nc
+haphazard 1 nc
+disorderly 1 nc
+careless 1 nc
+inefficient 1 nc
+impractical 1 nc
+unreliable 1 nc
+inconsistent 1 nc
+absent-minded 1 nc
+scatterbrained 1 nc
+illogical 1 nc
+sloppy 1 nc
+undependable 1 nc
+immature 1 nc
+erratic 1 nc
+negligent 1 nc
+rechless 1 nc
+indecisive 1 nc
+forgetful 1 nc
+lazy 1 nc
+unstable 1 nc
+aimless 1 nc
+foolhardy 1 nc
+impulsive 1 nc
+lax 1 nc
+wishy-washy 1 nc
+wasteful 1 nc
+unambitious 1 nc
+frivolous 1 nc
+rash 1 nc
+unsophisticated 2 nc ne
+dishonest 2 na nc
+unobservant 2 nc ni
+indiscreet 1 nc
+lustful 2 na nc
+indulgent 1 nc
+transparent 2 nc ni
+moody 1 e
+touchy 1 e
+tempramental 1 e
+irritable 1 e
+emotional 2 a e
+jealous 1 e
+envious 1 e
+possesive 1 e
+fretful 1 e
+impatient 1 e
+self-pitying 2 nex e
+nervous 1 e
+crabby 1 e
+defensive 1 e
+grumpy 1 e
+high-strung 1 e
+insecure 2 nex e
+cranky 2 na e
+fearful 1 e
+faultfinding 1 e
+quarrelsome 2 na e
+anxious 1 e
+finicky 1 e
+snobbish 1 e
+bossy 3 na ex e
+gossipy 1 e
+nosey 1 e
+selfish 1 e
+excitable 2 ex e
+restless 1 e
+compulsive 2 nc ne
+hypocrtitical 4 na nc e ni
+obsessive 1 e
+meddlesome 1 e
+extravagant 2 ex e
+volatile 1 e
+self-indulgent 1 e
+superstitious 3 nc e ni
+relaxed 1 ne
+unemotional 2 na ne
+patient 2 a ne
+masculine 2 na ne
+undemanding 2 a ne
+easy-going 2 a ne
+unexcitable 2 nex ne
+courageous 2 ex ne
+brave 2 ex ne
+informal 1 ne
+down-to-earth 2 a ne
+passionless 1 ne
+earthy 2 a ne
+nonchalant 1 ne
+unassuming 1 ne
+casual 1 ne
+weariless 1 ne
+intelligent 1 i
+intellectual 1 i
+smart 1 i
+complex 1 i
+philosophical 1 i
+innovative 1 i
+bright 1 i
+unconventional 1 i
+knowledgable 1 i
+deep 1 i
+ingenious 1 i
+inquisitive 1 i
+nonconforming 1 i
+insightful 1 i
+analytical 1 i
+introspective 1 i
+contemplative 1 i
+perceptive 1 i
+articulate 1 i
+inventive 1 i
+creative 1 i
+shrewd 1 i
+individualistic 1 i
+clever 1 i
+intense 1 i
+imaginative 1 i
+independent 1 i
+self-critical 1 i
+progressive 1 i
+diplomatic 1 i
+empathic 2 a i
+versatile 1 i
+distrustful 2 na i
+idealistic 1 i
+eloquent 1 i
+artistic 1 i
+candid 1 i
+worldly 1 i
+unpredictable 2 nc i
+scrupulous 1 i
+curious 1 i
+tenacious 1 i
+animated 2 a nc i
+sensual 3 ex e i
+ethical 4 a nex c i
+autonomous 1 i
+subjective 5 a nex nc e i
+simple 1 ni
+conventional 1 ni
+traditional 1 ni
+uninquisitive 1 ni
+unintelligent 1 ni
+surly 1 ni
+pompous 1 ni
+dependent 2 a ni
+shallow 1 ni
+unintellectual 1 ni
+patronizing 1 ni
+ignorant 1 ni
+inarticulate 1 ni
+pretenious 1 ni
+unscrupulous 1 ni
+predictable 3 nex ne ni
+condescending 2 na ni
+dogmatic 2 na ni
+
+
+
+
+
+

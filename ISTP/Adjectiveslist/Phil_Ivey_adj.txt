@@ -1,0 +1,12 @@
+firm
+kind
+charitable
+emotional
+casual
+humble
+deep
+consistent
+shy
+strict
+quiet
+confident

@@ -1,0 +1,7 @@
+active
+silent
+warm
+independent
+rigid
+direct
+reliable
