@@ -8,7 +8,7 @@
 8    Alfred_Adler_adj.txt          ENFJ                    42
 9    Nigella_Lawson_adj.txt        ENFJ                    41
 10   Pericles_adj.txt              ENFJ                    39
-11   Martin_Luther_King,_Jr._adj.txtENFJ                    38
+11   Martin_Luther_King,_Jr._adj.txt ENFJ                    38
 12   Johann_von_Goethe_adj.txt     ENFJ                    37
 13    James_Lipton_adj.txt          ENFJ                    36
 14    Joe_Biden_adj.txt             ENFJ                    35
